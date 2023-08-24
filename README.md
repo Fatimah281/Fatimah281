@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Fatimah281
-- 👀 I’m interested in everythings XD...
-- 🌱 I’m currently learning information system 
+- 👋 Hi, I’m @Fatimah
+- 👀 I’m interested in apps and web development.
 - 💞️ I’m looking to collaborate on hmmm until now web programming
-- 📫 How to reach me by my email tooma.alha@gmail.com
+- 📫 How to reach me by my email alhamawifatimah22@gmail.com
 
 <!---
 Fatimah281/Fatimah281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
